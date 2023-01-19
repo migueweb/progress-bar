@@ -2,7 +2,7 @@
 ## How does it work?
 
 Argument 1 receive a string and represent the bar before load, argument 2 receive a string and represent the bar onload, argument 3 receive a integer which is the length of the the bar and Argument 4 receives an integer and this is the maximum refresh time between the argument and 0 in seconds, 
-the default value of this is 0.5 seconds
+the default value of this is 0.5 seconds.
 
 
 ```python
